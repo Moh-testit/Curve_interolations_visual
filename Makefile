@@ -1,6 +1,3 @@
-##
-## EPITECH PROJECT, 2021
-## B-MAT-500-COT-5-1-308reedpipes-mohamed.mazu
 ## File description:
 ## Makefile
 ##
